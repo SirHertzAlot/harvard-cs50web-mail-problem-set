@@ -1,0 +1,228 @@
+{
+  "dataFormatVersion": "1.9.0",
+  "summary": {
+    "projectName": "mail",
+    "summaryUrl": ".boost\\mail.summary.boost-notebook",
+    "filesToAnalyze": 19,
+    "filesAnalyzed": 0,
+    "issues": [
+      "No issues found"
+    ]
+  },
+  "sectionSummary": {
+    "summary": {
+      "analysisType": "summary",
+      "status": "not-started",
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "totalCells": 0,
+      "filesAnalyzed": 0
+    }
+  },
+  "files": {
+    "manage.py": {
+      "sourceRelFile": "manage.py",
+      "notebookRelFile": ".boost/manage.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\__init__.py": {
+      "sourceRelFile": "mail\\__init__.py",
+      "notebookRelFile": ".boost/mail/__init__.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\views.py": {
+      "sourceRelFile": "mail\\views.py",
+      "notebookRelFile": ".boost/mail/views.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\urls.py": {
+      "sourceRelFile": "mail\\urls.py",
+      "notebookRelFile": ".boost/mail/urls.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "project3\\settings.py": {
+      "sourceRelFile": "project3\\settings.py",
+      "notebookRelFile": ".boost/project3/settings.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\tests.py": {
+      "sourceRelFile": "mail\\tests.py",
+      "notebookRelFile": ".boost/mail/tests.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "project3\\__init__.py": {
+      "sourceRelFile": "project3\\__init__.py",
+      "notebookRelFile": ".boost/project3/__init__.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "project3\\wsgi.py": {
+      "sourceRelFile": "project3\\wsgi.py",
+      "notebookRelFile": ".boost/project3/wsgi.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "project3\\urls.py": {
+      "sourceRelFile": "project3\\urls.py",
+      "notebookRelFile": ".boost/project3/urls.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\templates\\mail\\register.html": {
+      "sourceRelFile": "mail\\templates\\mail\\register.html",
+      "notebookRelFile": ".boost/mail/templates/mail/register.html.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\templates\\mail\\login.html": {
+      "sourceRelFile": "mail\\templates\\mail\\login.html",
+      "notebookRelFile": ".boost/mail/templates/mail/login.html.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\templates\\mail\\layout.html": {
+      "sourceRelFile": "mail\\templates\\mail\\layout.html",
+      "notebookRelFile": ".boost/mail/templates/mail/layout.html.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\templates\\mail\\inbox.html": {
+      "sourceRelFile": "mail\\templates\\mail\\inbox.html",
+      "notebookRelFile": ".boost/mail/templates/mail/inbox.html.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "project3\\asgi.py": {
+      "sourceRelFile": "project3\\asgi.py",
+      "notebookRelFile": ".boost/project3/asgi.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\models.py": {
+      "sourceRelFile": "mail\\models.py",
+      "notebookRelFile": ".boost/mail/models.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\apps.py": {
+      "sourceRelFile": "mail\\apps.py",
+      "notebookRelFile": ".boost/mail/apps.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\admin.py": {
+      "sourceRelFile": "mail\\admin.py",
+      "notebookRelFile": ".boost/mail/admin.py.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\static\\mail\\styles.css": {
+      "sourceRelFile": "mail\\static\\mail\\styles.css",
+      "notebookRelFile": ".boost/mail/static/mail/styles.css.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "mail\\static\\mail\\inbox.js": {
+      "sourceRelFile": "mail\\static\\mail\\inbox.js",
+      "notebookRelFile": ".boost/mail/static/mail/inbox.js.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    }
+  },
+  "account": {
+    "refreshed": false,
+    "enabled": false,
+    "status": "",
+    "trialRemaining": 0,
+    "usageThisMonth": 0,
+    "discountedUsage": 0,
+    "lastOperationCost": 0,
+    "batchOperationCost": 0,
+    "balanceDue": 0,
+    "couponType": "",
+    "org": "",
+    "owner": "",
+    "created": "",
+    "creditCardLinked": false
+  },
+  "uiState": {
+    "analysisState": "quiescent",
+    "activityBarState": {
+      "summaryViewState": {
+        "analysisMode": "analyze-all-mode",
+        "analysisTypesState": {
+          "security": true,
+          "compliance": true,
+          "documentation": true
+        }
+      }
+    }
+  },
+  "settings": {
+    "fileLimit": 0
+  }
+}
