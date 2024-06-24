@@ -6,7 +6,7 @@
     "filesToAnalyze": 19,
     "filesAnalyzed": 0,
     "issues": [
-      "No issues found"
+      "No summary file found at .boost\\mail.summary.boost-notebook"
     ]
   },
   "sectionSummary": {
@@ -223,6 +223,6 @@
     }
   },
   "settings": {
-    "fileLimit": 0
+    "fileLimit": 100
   }
 }
